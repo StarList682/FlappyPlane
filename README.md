@@ -1,6 +1,6 @@
-# FlappyPlain
+# FlappyPlane
 
-This is NOT FlappyBird this is the FlappyPlain!
+This is NOT FlappyBird this is the FlappyPlane!
 
 ## Installation
 https://github.com/StarList682/FlappyPlain.git
