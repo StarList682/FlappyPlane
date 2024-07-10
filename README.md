@@ -3,7 +3,7 @@
 This is NOT FlappyBird this is the FlappyPlane!
 
 ## Installation
-https://github.com/StarList682/FlappyPlain.git
+https://github.com/StarList682/FlappyPlane.git
 
 ## Donation
 
